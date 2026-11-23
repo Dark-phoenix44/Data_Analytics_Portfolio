@@ -15,7 +15,7 @@ This course, offered by IBM through Coursera, focuses on relational databases, S
 - Database fundamentals and relational database concepts
 - SQL queries using SELECT, INSERT, UPDATE, DELETE, COUNT, DISTINCT, LIMIT
 - Filtering, sorting and grouping data
-- Aggregate functions and built-in database functions
+- Aggregate functions and built-in database functions [COUNT, SUM, MAX, MIN, AVG]
 - Creating and modifying tables using DDL commands
 - Subqueries and nested queries
 - Working with multiple tables

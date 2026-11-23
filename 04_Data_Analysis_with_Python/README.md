@@ -18,12 +18,8 @@ This course, offered by IBM through Coursera, focuses on applying Python program
 - Handling missing values and data formatting
 - Exploratory Data Analysis (EDA)
 - Descriptive statistics and correlation analysis
-- Data visualization
 - Linear and multiple regression
 - Model evaluation and refinement
-
-## Practical Work
-(Add your completed lab assignments, notebooks and final project files here.)
 
 ## Learning Source
 IBM – Data Analysis with Python: From Raw Data to Insights  
